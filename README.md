@@ -20,4 +20,11 @@ The motions are calculated by vector adding all the pairwise forces at play for 
 
 ## Here are some of the results :)
 
+1. For 4 bodies follwing inverse square law:
 ![alt text](https://github.com/samyakbrata/N-bodies_2D/blob/main/media/git.gif)
+
+2. Motion of one body with respect to another in the same simulation:
+![alt text](https://github.com/samyakbrata/N-bodies_2D/blob/main/media/gitt.gif)
+
+3. Motion of all the bodies with respect to one:
+   ![alt text](
