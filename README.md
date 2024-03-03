@@ -6,8 +6,8 @@ The motions are calculated by vector adding all the pairwise forces at play for 
 ## Features: 
   1. Vaious frames of reference:
        1. Center of Mass
-       2. Any Body of choice.
-       3.  Absolute
+       2. Any Body of choice
+       3. Absolute
   2. Trails from previous position data
   3. Energy Analysis
   4. Pairwise motion Analysis
@@ -15,7 +15,7 @@ The motions are calculated by vector adding all the pairwise forces at play for 
 ## Things needs to be worked upon:
   1. Inefficiency with large number of bodies
   2.  Implementation of Euler Algorithm
-  3.  Extendng to 3rd Dimension
+  3.  Extending to 3rd Dimension
 
 
 ## Here are some of the results :)
