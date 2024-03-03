@@ -3,9 +3,9 @@ A small scale simulation of n-bodies with centre of mass frame of reference with
 
 ## Features: 
   1. Vaious frames of reference available:
-       a. Center of Mass
-       b. Any Body of choice
-       c. Absolute
+       i. Center of Mass
+       ii. Any Body of choice
+       iii. Absolute
   3. Energy Analysis
   4. Pairwise motion Analysis
 
