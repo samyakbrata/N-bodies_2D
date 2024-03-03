@@ -17,3 +17,7 @@ The motions are calculated by vector adding all the pairwise forces at play for 
   2.  Implementation of Euler Algorithm
   3.  Extendng to 3rd Dimension
 
+
+## Here are some of the results :)
+
+![alt text](https://github.com/samyakbrata/N-bodies_2D/blob/main/media/git.gif)
