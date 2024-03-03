@@ -7,8 +7,9 @@ The motions are calculated by vector adding all the pairwise forces at play for 
        1. Center of Mass
        2. Any Body of choice.
        3.  Absolute
-  2. Energy Analysis
-  3. Pairwise motion Analysis
+  2. Trails from previous position data
+  3. Energy Analysis
+  4. Pairwise motion Analysis
 
 ## Things needs to be worked upon:
   1. Inefficiency with large number of bodies
