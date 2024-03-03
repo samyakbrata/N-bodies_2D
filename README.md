@@ -16,3 +16,4 @@ The motions are calculated by vector adding all the pairwise forces at play for 
   1. Inefficiency with large number of bodies
   2.  Implementation of Euler Algorithm
   3.  Extendng to 3rd Dimension
+
